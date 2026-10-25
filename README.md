@@ -16,7 +16,7 @@ This script keeps that routine, but removes the tedious part:
 - **You only type what only you know:** the next volume's date, a store link, and optionally its cover.
 - **Kavita shows the state at a glance.** Each licensed series gets a colored frame and a small badge on its card: has a date, coming soon, out now, or time to check again.
 - **It nags you gently.** A series with no announced date gets a "check again" reminder every month, until you mark it as finished.
-
+- 
 Everything runs in your browser. Nothing is sent anywhere except requests to your own Kavita server.
 
 ## Contents
